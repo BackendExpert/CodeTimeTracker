@@ -2,6 +2,7 @@
   "name": "codetimetracker",
   "displayName": "Code Time Tracker",
   "description": "Track Coding Time in VS Code",
+  "publisher": "JehanKandy",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.60.0"
